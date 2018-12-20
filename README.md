@@ -1,7 +1,8 @@
 * Author: RyangGyouKim
 * Date: 2018/12/23(YYYY/MM/DD)
 * Upload and Record all What did with DPACS project in 2018
-* MD 작성을 위한  : https://gist.github.com/ihoneymon/652be052a0727ad59601
+* MD 작성을 위한 참조 : https://gist.github.com/ihoneymon/652be052a0727ad59601
+<br>
 # What_did_in_2018
 2018년에 있었던 1년동안 했던일 모두 정리해서 기록하는 곳입니다.
 그리고 아래 내용은 각 폴더에 대한 내용입니다.
