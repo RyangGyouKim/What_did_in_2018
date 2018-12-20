@@ -16,7 +16,7 @@
 * 2. 2018 오픈소스 경진대회-우수상(사진) <br>
  김양규, 최준영, 안유정
 <hr>
-2. DPACS_Proejct_Folder
+2. DPACS_Proejct_Folder<br>
 프로젝트 소스 정리
 <hr>
 4. PPT_Video_Folder
