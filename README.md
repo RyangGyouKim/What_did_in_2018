@@ -19,14 +19,16 @@
 2. DPACS_Proejct_Folder<br>
 * 프로젝트 소스 정리
 <hr>
-4. PPT_Video_Folder
+4. PPT_Video_Folder<br>
+﻿
 * 유튜브 주소(README.MD 파일로 정리)
 * 대전대학교 졸업작품 발표 자료 및 영상(README.MD 파일로 정리)
 * 오픈소스 경진대회 발표자료 및 영상(README.MD 파일로 정리) 
 * 캡스톤 디자인 경진대회 PPT
 <hr>
 5. 개발자 및 지도교수 (README.MD 파일로 정리)
-<br> * 지도교수 유정기 - 대전대학교, 전자정보통신공학과, 교수
+<br>﻿
+* 지도교수 유정기 - 대전대학교, 전자정보통신공학과, 교수
 <hr>
 <img width="350" height="400" src="https://user-images.githubusercontent.com/45614978/50278974-d3aff480-048b-11e9-9bda-5ce9f2ee727e.jpg">
 <br> 1. 개발자1. 김양규 
