@@ -16,7 +16,10 @@
  김양규, 최준영, 안유정
 <hr>
 2. DPACS_Proejct_Folder<br>
-*  프로젝트 소스 정리
+*   프로젝트 소스 정리 <br>
+1. Web - 웹 소스 정리
+2. Socket - TCP/IP 통신 소스 정리
+3. OpenCV - 영상처리 소스 
 <hr>
 
 4. PPT_Video_Folder<br>
@@ -62,5 +65,5 @@
 <br> 7. 연락처: 010-5650-2431
 <hr>
 6. Developer_Img
-<br> <br>
-*  이미지 정리 <br>
+<br>
+*   이미지 정리 <br>
