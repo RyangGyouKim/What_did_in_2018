@@ -30,9 +30,9 @@
 5. 개발자 및 지도교수 (README.MD 파일로 정리)
 <br>
 <h2>지도교수: 유정기교수님</h2>
-1. 소속: 대전대학교<br>
-2. 학과:전자정보통신공학과<br>
-3. 직위:교수<br>
+* 소속: 대전대학교<br>
+* 학과:전자정보통신공학과<br>
+* 직위:교수<br>
 <hr>
 <h2>개발자1. 김양규</h2>
 <img width="350" height="400" src="https://user-images.githubusercontent.com/45614978/50278974-d3aff480-048b-11e9-9bda-5ce9f2ee727e.jpg">
