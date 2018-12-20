@@ -30,7 +30,7 @@
 5. 개발자 및 지도교수 (README.MD 파일로 정리)
 <br> 지도교수 유정기 - 대전대학교, 전자정보통신공학과, 교수
 <hr>
-<img width="350" height="500" src="https://user-images.githubusercontent.com/45614978/50278974-d3aff480-048b-11e9-9bda-5ce9f2ee727e.jpg">
+<img width="350" height="400" src="https://user-images.githubusercontent.com/45614978/50278974-d3aff480-048b-11e9-9bda-5ce9f2ee727e.jpg">
 <br> 개발자1. 김양규 
 <br> 소속: 대전대학교
 <br> 학과: 전자정보통신공학과
@@ -47,7 +47,7 @@
 <br> 깃허브: https://github.com/junyongchoi
 <br> 연락처: 010-3137-0661
 <hr>
-<img width="350" height="500" src="https://user-images.githubusercontent.com/45614978/50278975-d579b800-048b-11e9-8cee-fd05c8ecdebc.jpg">
+<img width="350" height="400" src="https://user-images.githubusercontent.com/45614978/50278975-d579b800-048b-11e9-8cee-fd05c8ecdebc.jpg">
 <br> 개발자3. 안유정
 <br> 대전대학교
 <br> 전자정보통신공학과/해킹보안학과
