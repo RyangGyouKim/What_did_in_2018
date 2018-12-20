@@ -17,9 +17,9 @@
 <hr>
 2. DPACS_Proejct_Folder<br>
 *   프로젝트 소스 정리 <br>
-1. Web - 웹 소스 정리 <br>
-2. Socket - TCP/IP 통신 소스 정리 <br>
-3. OpenCV - 영상처리 소스 <br>
+2.1. Web - 웹 소스 정리 <br>
+2.2. Socket - TCP/IP 통신 소스 정리 <br>
+2.3. OpenCV - 영상처리 소스 <br>
 <br>
 <hr>
 
