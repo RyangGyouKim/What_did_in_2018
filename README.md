@@ -38,31 +38,33 @@
 4. 직위:교수<br>
 
 <hr>
+<h2>개발자1. 김양규</h2>
 <img width="350" height="400" src="https://user-images.githubusercontent.com/45614978/50278974-d3aff480-048b-11e9-9bda-5ce9f2ee727e.jpg">
-<br> 1. 개발자1. 김양규 
+<br>  
 <br> 2. 소속: 대전대학교
 <br> 3. 학과: 전자정보통신공학과
-<br> 4. 직위: 4학년(팀장)
+<br> 4. 학년/직위: 4학년(팀장)
 <br> 5. 이메일: yangguq@gmail.com
 <br> 6. 깃허브: https://github.com/RyangGyouKim
 <br> 7. 연락처: 010-5803-6388
 <hr>
-<br> 1. 개발자2. 최준영
-<br> 2. 대전대학교
-<br> 3. 전자정보통신공학과
-<br> 4. 4학년(팀원)
+<br> <h2>개발자2. 최준영</h2>
+<br> 1. 소속: 대전대학교
+<br> 3. 학과: 전자정보통신공학과
+<br> 4. 학년/직위: 4학년(팀원)
 <br> 5. 이메일주소: yjc0455@naver.com
 <br> 6. 깃허브: https://github.com/junyongchoi
 <br> 7. 연락처: 010-3137-0661
 <hr>
+<h2>개발자3. 안유정</h2><br>
 <img width="350" height="400" src="https://user-images.githubusercontent.com/45614978/50278975-d579b800-048b-11e9-8cee-fd05c8ecdebc.jpg">
-<br> 1. 개발자3. 안유정
-<br> 2. 대전대학교
-<br> 3. 전자정보통신공학과/해킹보안학과
-<br> 4. 4학년(팀원)
-<br> 5. 이메일주소: gnssu13@naver.com
-<br> 6. 깃허브: https://github.com/AnYuJeong
-<br> 7. 연락처: 010-5650-2431
+<br> 
+<br> 1. 학교: 대전대학교
+<br> 2. 학과: 전자정보통신공학과/해킹보안학과(복수전공)
+<br> 3. 학년/직위: 4학년(팀원)
+<br> 4. 이메일주소: gnssu13@naver.com
+<br> 5. 깃허브: https://github.com/AnYuJeong
+<br> 6. 연락처: 010-5650-2431
 <hr>
 6. Developer_Img
 <br>
