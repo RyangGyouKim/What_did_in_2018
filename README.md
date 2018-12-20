@@ -15,8 +15,7 @@
 * 2018 오픈소스 경진대회-우수상(사진) <br>
  김양규, 최준영, 안유정
 <hr>
-2. DPACS_Proejct_Folder<br>
-*   프로젝트 소스 정리 <br>
+2. DPACS_Proejct_Folder -프로젝트 소스 정리 <br>
 2.1. Web - 웹 소스 정리 <br>
 2.2. Socket - TCP/IP 통신 소스 정리 <br>
 2.3. OpenCV - 영상처리 소스 <br>
