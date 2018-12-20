@@ -1,0 +1,25 @@
+#div{
+	width:100%;
+	height:100%;
+	min-height:1000px;
+	padding-left:500px;
+	padding-top:200px;
+	text-align:center;
+	margin-left:30px; 
+	margin:auto 0px;
+}
+#table{
+	text-algin:center; 
+	border:1px black solid; 
+	width:800px;
+}
+tr{
+	border:1px black solid; 
+}
+td{
+	border:1px black solid; 
+}
+#out{
+	opacity: 0.5;
+	color:,,,0.5;
+}

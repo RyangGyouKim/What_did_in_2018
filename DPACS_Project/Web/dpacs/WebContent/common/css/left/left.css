@@ -1,0 +1,16 @@
+a{
+	color:#343a40;
+}
+#menu{
+	margin:auto 0px; 
+	text-align:center; 
+	color:#212529; 
+	background-color:#00BFFF; 
+	height:100%; 
+	width:15%; 
+	min-width:200px;
+	float:left;
+}
+b{
+	color:black;
+}

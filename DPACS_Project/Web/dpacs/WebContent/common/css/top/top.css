@@ -1,0 +1,40 @@
+a{
+	color:#343a40;
+}
+#container{
+	height:2048px;
+	width:100%;
+	margin: auto 0;
+	color:#212529;
+	
+}
+#header{
+	background-color:#00BFFF; 
+	color:#212529;
+	height:100px; 
+	width:100%; 
+	padding:16px;
+}
+.topLeft1{
+	color:#212529;
+	margin:auto 0px; 
+	width:30%; 
+	text-align:left; 
+	float:left;
+}
+.Left1Son{		
+	color:#212529;
+	padding-left:0px; 
+	list-style:none; 
+	text-algin:left;
+	color:black;
+}
+
+.topLeft2{
+	color:#212529;
+	margin:auto 0px; 
+	width:70%; 
+	text-color:white; 
+	align:center; 
+	float:left;
+}

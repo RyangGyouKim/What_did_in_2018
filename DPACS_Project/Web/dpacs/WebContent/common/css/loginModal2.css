@@ -1,0 +1,13 @@
+.modal-header{
+	text-align:center;
+	padding-left:140px;
+}
+.modal-body{
+	width:100%;
+}
+#label{
+	width:70px;
+}
+#input{
+	width:370px;
+}
