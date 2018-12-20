@@ -21,7 +21,7 @@
 2. DPACS_Proejct_Folder
 프로젝트 소스 정리
 <hr>
-4. PPT_Video<br>_Folder
+4. PPT_Video_Folder
 <br> 유튜브 주소(README.MD 파일로 정리)
 <br> 대전대학교 졸업작품 발표 자료 및 영상(README.MD 파일로 정리)
 <br> 오픈소스 경진대회 발표자료 및 영상(README.MD 파일로 정리)
