@@ -28,10 +28,10 @@
 <hr>
 5. 개발자 및 지도교수 (README.MD 파일로 정리)
 <br>﻿
-* 지도교수: 유정기교수님
-* 소속: 대전대학교
-* 학과:전자정보통신공학과
-* 직위:교수
+1. 지도교수: 유정기교수님<br>
+2. 소속: 대전대학교<br>
+3. 학과:전자정보통신공학과<br>
+4. 직위:교수<br>
 
 <hr>
 <img width="350" height="400" src="https://user-images.githubusercontent.com/45614978/50278974-d3aff480-048b-11e9-9bda-5ce9f2ee727e.jpg">
